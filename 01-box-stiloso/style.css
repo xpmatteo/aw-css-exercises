@@ -1,0 +1,59 @@
+body {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  background-color: white;
+  color: #706C6E;
+}
+article {
+  background-color: rgb(85%, 100%, 85%);
+  width: 102px;
+  float: left;
+  margin: 12px 6px 12px 12px;
+}
+aside {
+  font-style: italic;
+  background-color: rgb(85%, 85%, 100%);
+  width: 102px;
+  float: left;
+  margin: 12px 12px 12px 6px;
+}
+h3 {
+  font-size: 150%;
+}
+a {
+  color: #A1805C;
+}
+div.content {
+  width: 240px;
+  border: 2px dashed rgb(224, 226, 230);
+  float: left;
+  padding: 0px;
+}
+
+li:hover {
+  background-color: #A1805C;
+}
+
+li:hover a {
+  color: white;
+}
+
+li a {
+  text-decoration: none;
+}
+
+ul {
+  background: lightgray;
+  padding: 0px;
+  text-align: center;
+  width: 244px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  width: 32%;
+  margin: 0px;
+  padding: 0px;
+}
