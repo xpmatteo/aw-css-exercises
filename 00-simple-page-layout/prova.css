@@ -1,0 +1,28 @@
+header {
+  background: rgb(100%,80%,80%);
+  width: 500px;
+}
+
+section#pippo {
+  background: #dfd;
+  width: 100px;
+  float: left;
+}
+
+section#pluto {
+  background: #afa;
+  width: 300px;
+  float: left;
+}
+
+section#paperino {
+  background: #ddddff;
+  width: 100px;
+  float: left;
+}
+
+footer {
+  background: rgb(80%,80%,80%);
+  width: 500px;
+  clear: left;
+}
